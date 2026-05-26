@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# David — Meetdave
+# David Olumefun
 
 ### Frontend & Backend Engineer building scalable, animated and production-ready experiences.
 
